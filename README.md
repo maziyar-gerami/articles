@@ -25,7 +25,7 @@ The "Articles" repository is a curated collection of articles and a summary of a
 
 ### Video Summary
 
-- [Software Architecture vs. Code • Simon Brown • GOTO 2014][(https://github.com/maziyar-gerami/articles/blob/master/Software-Architecture-VS-Code.md)]
+- [Software Architecture vs. Code • Simon Brown • GOTO 2014][(Software-Architecture-VS-Code.md)]
 
 ## Getting Started
 

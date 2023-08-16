@@ -13,7 +13,7 @@ A collection of articles and a summary of a video on software development and re
 
 ## Introduction
 
-The "Articles" repository is a curated collection of articles and a summary of a video that discuss various aspects of software development, software architecture, coding practices, and related topics.
+The "Articles" repository is a curated collection of articles and a video summary that discusses various aspects of software development, software architecture, coding practices, and related topics.
 
 ## Contents
 
@@ -25,11 +25,11 @@ The "Articles" repository is a curated collection of articles and a summary of a
 
 ### Video Summary
 
-- [Software Architecture vs. Code • Simon Brown • GOTO 2014][(articles/Software-Architecture-VS-Code.md)]
+- [Software Architecture vs. Code • Simon Brown • GOTO 2014][[Software Architecture VS Code](articles/Software-Architecture-VS-Code.md)]
 
 ## Getting Started
 
-To get started with this repository, you can simply clone it to your local machine using the following command:
+To get started with this repository, you can clone it to your local machine using the following command:
 
 ```bash
 git clone https://github.com/your-username/Articles.git

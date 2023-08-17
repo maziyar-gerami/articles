@@ -20,8 +20,6 @@ The "Articles" repository is a curated collection of articles and a video summar
 ### Articles
 
 1. [Title of Article 1](articles/article1.md)
-2. [Title of Article 2](articles/article2.md)
-3. ...
 
 ### Video Summary
 

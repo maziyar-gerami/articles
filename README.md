@@ -25,7 +25,8 @@ The "Articles" repository is a curated collection of articles and a video summar
 
 ### Video Summary
 
-- [Software Architecture vs. Code • Simon Brown • GOTO 2014][[Software Architecture VS Code](articles/Software-Architecture-VS-Code.md)]
+- Software Architecture vs. Code • Simon Brown • GOTO 2014 [[Software Architecture VS Code](articles/Software-Architecture-VS-Code.md)]
+- The Many Meanings of Event-Driven Architecture • GOTO 2017 [[The Many Meanings of Event-Driven Architecture](articles/The-Many-Meanings-of-Event-Driven-Architecture.md)]
 
 ## Getting Started
 
